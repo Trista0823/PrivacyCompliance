@@ -1,0 +1,41 @@
+﻿doc_id,protect,exeed_limit,logout,query,correct,delete,repeal,recommand,aging,storage_region,storage_time,subject,data,purpose,explain,result
+499,1,0,1,0,1,1,0,0,0,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Access (RA), Right to Withdraw (RW), User Portrait (UP), Data Retention Region (DRR), Data Retention Period (DRP), User Portrait (UP), Policy Duration (PD)",False
+509,1,0,1,1,1,1,0,1,0,1,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Withdraw (RW), Policy Duration (PD)",False
+525,1,0,0,1,1,1,1,1,0,1,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Account Cancellation (RAC), Policy Duration (PD)",False
+529,1,1,1,1,1,1,1,1,0,1,1,1,1,1,不合规，缺少Policy Duration (PD),False
+533,1,1,1,1,1,1,1,1,1,1,0,1,1,1,不合规，缺少Data Retention Period (DRP),False
+548,1,0,0,1,1,1,0,1,0,0,1,0,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Withdraw (RW), Data Retention Region (DRR), Right to Account Cancellation (RAC), Policy Duration (PD)",False
+564,1,0,1,0,1,1,1,1,0,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Access (RA), Data Retention Region (DRR), Data Retention Period (DRP), Policy Duration (PD)",False
+568,1,0,0,1,1,1,1,1,0,0,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Data Retention Region (DRR), Right to Account Cancellation (RAC), Policy Duration (PD)",False
+572,1,0,0,0,1,1,0,0,0,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Access (RA), Right to Withdraw (RW), User Portrait (UP), Data Retention Region (DRR), Data Retention Period (DRP), Right to Account Cancellation (RAC), User Portrait (UP), Policy Duration (PD)",False
+587,1,1,1,1,1,1,1,1,1,0,1,1,1,1,不合规，缺少Data Retention Region (DRR),False
+591,1,0,1,1,1,1,1,1,0,1,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Policy Duration (PD)",False
+600,1,0,1,1,1,1,1,0,1,0,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), User Portrait (UP), Data Retention Region (DRR), User Portrait (UP)",False
+620,1,0,1,1,1,1,1,0,0,1,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), User Portrait (UP), User Portrait (UP), Policy Duration (PD)",False
+636,1,0,0,1,1,1,0,1,0,0,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Withdraw (RW), Data Retention Region (DRR), Right to Account Cancellation (RAC), Policy Duration (PD)",False
+641,1,1,1,1,1,1,1,1,1,1,1,1,1,1,合规,True
+657,1,0,1,1,1,1,1,1,0,1,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Policy Duration (PD)",False
+661,1,1,1,1,1,1,1,1,1,1,1,1,1,1,合规,True
+677,1,1,1,0,0,0,0,0,0,0,1,1,1,1,"不合规，缺少Right to Access (RA), Right to Rectify (RR), Right to Delete (RD), Right to Withdraw (RW), User Portrait (UP), Data Retention Region (DRR), User Portrait (UP), Policy Duration (PD)",False
+708,1,0,1,1,1,1,1,1,0,1,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Policy Duration (PD)",False
+712,1,0,0,0,1,1,0,0,0,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Access (RA), Right to Withdraw (RW), User Portrait (UP), Data Retention Region (DRR), Data Retention Period (DRP), Right to Account Cancellation (RAC), User Portrait (UP), Policy Duration (PD)",False
+724,1,1,1,1,1,1,1,0,1,1,1,1,1,1,"不合规，缺少User Portrait (UP), User Portrait (UP)",False
+732,1,1,1,1,1,1,1,0,1,1,1,1,1,1,"不合规，缺少User Portrait (UP), User Portrait (UP)",False
+745,1,1,1,1,1,1,1,1,1,1,1,1,1,1,合规,True
+749,1,0,1,1,1,1,1,1,0,1,1,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Policy Duration (PD)",False
+765,1,1,0,1,1,1,1,1,0,1,1,1,1,1,"不合规，缺少Right to Account Cancellation (RAC), Policy Duration (PD)",False
+773,1,0,0,0,0,0,0,0,1,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Access (RA), Right to Rectify (RR), Right to Delete (RD), Right to Withdraw (RW), User Portrait (UP), Data Retention Region (DRR), Data Retention Period (DRP), Right to Account Cancellation (RAC), User Portrait (UP)",False
+821,1,0,0,0,0,0,1,0,0,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Access (RA), Right to Rectify (RR), Right to Delete (RD), User Portrait (UP), Data Retention Region (DRR), Data Retention Period (DRP), Right to Account Cancellation (RAC), User Portrait (UP), Policy Duration (PD)",False
+837,1,1,1,1,1,0,1,1,1,0,0,1,1,1,"不合规，缺少Right to Delete (RD), Data Retention Region (DRR), Data Retention Period (DRP)",False
+860,1,1,1,1,1,1,1,1,1,1,0,1,1,1,不合规，缺少Data Retention Period (DRP),False
+876,1,1,1,1,1,1,1,1,1,1,1,1,1,1,合规,True
+895,1,1,1,1,1,1,1,0,0,0,0,1,1,1,"不合规，缺少User Portrait (UP), Data Retention Region (DRR), Data Retention Period (DRP), User Portrait (UP), Policy Duration (PD)",False
+899,1,0,0,0,0,0,1,0,1,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Access (RA), Right to Rectify (RR), Right to Delete (RD), User Portrait (UP), Data Retention Region (DRR), Data Retention Period (DRP), Right to Account Cancellation (RAC), User Portrait (UP)",False
+909,1,1,1,1,1,1,1,1,1,1,1,1,1,1,合规,True
+925,1,0,1,1,1,1,0,1,0,0,0,0,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Withdraw (RW), Data Retention Region (DRR), Data Retention Period (DRP), Policy Duration (PD)",False
+933,1,0,0,1,1,0,0,1,0,0,0,1,1,1,"不合规，缺少Overdue Processing Method (OPM), Right to Delete (RD), Right to Withdraw (RW), Data Retention Region (DRR), Data Retention Period (DRP), Right to Account Cancellation (RAC), Policy Duration (PD)",False
+964,1,1,1,1,1,1,1,1,0,1,1,1,1,1,不合规，缺少Policy Duration (PD),False
+968,1,1,1,1,1,1,1,1,1,1,1,1,1,1,合规,True
+972,1,1,1,1,1,1,1,1,0,1,1,1,1,1,不合规，缺少Policy Duration (PD),False
+987,1,1,1,1,1,1,1,1,0,1,1,1,1,1,不合规，缺少Policy Duration (PD),False
+991,1,1,1,1,1,1,1,1,1,1,1,1,1,1,合规,True
